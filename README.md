@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="center">👋 What's up! I'm Yonglin.</h3>
+<p align="center">Building intuitive user experiences & working with cutting edge technologies</p>
 
-<!--
-**callmekungfu/callmekungfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm up to
 
-Here are some ideas to get you started:
+- 3rd year software engineering student @ uOttawa
+- At [**uOttawa Engineering Outreach**](https://forms.outstem.io) building a modern program and event registration experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's talk!
+
+I'm interested in all things design and development. Let's make something cool!
+
+- 🐤 Follow me on [Twitter](https://twitter.com/yonglinwang88)
+- 📷 Follow me on [Instagram](https://www.instagram.com/yonglin_wang)
+- 📧 Send me an [Email](mailto:wangyonglin1999@gmail.com)
